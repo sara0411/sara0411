@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm Sara Ferraa 👋
+# Hi, I'm Sara Ferraa
 
-### Software Engineer · AI & Enterprise Automation · ServiceNow CSA
+### Software Engineer | AI & Enterprise Automation | ServiceNow CSA
 
 Building reliable software across backend systems, applied AI, enterprise platforms, and mobile applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://saraferraa.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-sara0411-181717?style=for-the-badge&logo=github)](https://github.com/sara0411)
+[![GitHub](https://img.shields.io/badge/GitHub-sara0411-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sara0411)
 
 </div>
 
@@ -17,11 +17,11 @@ I'm a software engineer based in Morocco with hands-on experience gained through
 
 My work spans Java/Spring applications, AI and NLP pipelines, enterprise automation, ServiceNow, and cross-platform mobile development. I enjoy turning complex operational problems into maintainable products with clear architecture and measurable results.
 
--  Building **PageMate**, a social reading platform with Flutter and Supabase
--  Exploring applied AI, RAG systems, NLP, and workflow automation
--  Interested in software engineering, AI engineering/consulting, and enterprise solutions
--  Open to remote opportunities and international relocation
--  Arabic · French · English
+- Building **PageMate**, a social reading platform with Flutter and Supabase
+- Exploring applied AI, RAG systems, NLP, and workflow automation
+- Interested in software engineering, AI engineering/consulting, and enterprise solutions
+- Open to remote opportunities and international relocation
+- Arabic · French · English
 
 ## Technology stack
 
@@ -66,7 +66,7 @@ My work spans Java/Spring applications, AI and NLP pipelines, enterprise automat
 <tr>
 <td width="50%" valign="top">
 
-###  [AI Cybersecurity Log Analyzer](https://github.com/sara0411/cybersec-log-analyzer)
+### [AI Cybersecurity Log Analyzer](https://github.com/sara0411/cybersec-log-analyzer)
 
 Security-log analysis prototype combining NLP preprocessing with a stacked BiLSTM classifier and a Flask interface.
 
@@ -77,7 +77,7 @@ Security-log analysis prototype combining NLP preprocessing with a stacked BiLST
 </td>
 <td width="50%" valign="top">
 
-###  [TrustExpense](https://github.com/sara0411/TrustExpense)
+### [TrustExpense](https://github.com/sara0411/TrustExpense)
 
 Flutter expense tracker using receipt capture, on-device OCR, AI-assisted categorization, Supabase, and blockchain certification.
 
@@ -88,7 +88,7 @@ Flutter expense tracker using receipt capture, on-device OCR, AI-assisted catego
 <tr>
 <td width="50%" valign="top">
 
-###  [E-Commerce Microservices](https://github.com/sara0411/JEE)
+### [E-Commerce Microservices](https://github.com/sara0411/JEE)
 
 Multi-module Java platform with domain services, service discovery, an API gateway, and local persistence.
 
@@ -97,7 +97,7 @@ Multi-module Java platform with domain services, service discovery, an API gatew
 </td>
 <td width="50%" valign="top">
 
-###  [Personal Portfolio](https://github.com/sara0411/Portfolio)
+### [Personal Portfolio](https://github.com/sara0411/Portfolio)
 
 Responsive portfolio for presenting engineering, AI, and product work through a modern component-based interface.
 
@@ -137,10 +137,10 @@ Responsive portfolio for presenting engineering, AI, and product work through a 
 </div>
 
 <p align="center">
-<sub>Language statistics reflect public repositories and do not represent total professional experience.</sub>
+<sub>Statistics are generated from public GitHub activity and repositories.</sub>
 </p>
 
-### Let's build useful technology.
+<div align="center">
 
 Explore my work here on GitHub or visit [my portfolio](https://saraferraa.vercel.app).
 

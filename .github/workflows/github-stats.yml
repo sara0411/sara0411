@@ -1,6 +1,10 @@
 name: Update GitHub Statistics
 
 on:
+  push:
+    paths:
+      - "README.md"
+      - ".github/workflows/github-stats.yml"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:

@@ -66,13 +66,29 @@ Developed the recruitment CV management platform using ASP.NET Core MVC, C#, and
 
 ## Working set
 
-**Backend:** Java, Spring Boot, Node.js, Express, ASP.NET Core, REST APIs, Microservices, JPA, Hibernate
+### Backend and enterprise
 
-**Frontend and mobile:** React, Next.js, TypeScript, Flutter, React Native, Expo, Thymeleaf
+![Java](https://img.shields.io/badge/Java-33413B?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-33413B?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-33413B?style=flat-square&logo=nodedotjs&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-33413B?style=flat-square&logo=dotnet&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-33413B?style=flat-square&logo=servicenow&logoColor=white)
 
-**Data and AI:** PostgreSQL, Supabase, SQL Server, Python, RAG, NLP, LSTM, BiLSTM, Vector Search, OCR
+### Web and mobile
 
-**Enterprise and delivery:** ServiceNow, BigFix, IBM ILMT, Active Directory, Oracle Cloud Infrastructure, Docker, Power BI, Git
+![TypeScript](https://img.shields.io/badge/TypeScript-33413B?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-33413B?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-33413B?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-33413B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-33413B?style=flat-square&logo=react&logoColor=white)
+
+### Data and delivery
+
+![Python](https://img.shields.io/badge/Python-33413B?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-33413B?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-33413B?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-33413B?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-33413B?style=flat-square&logo=git&logoColor=white)
 
 ## Education and credentials
 
@@ -87,6 +103,13 @@ EMSI Casablanca, 2021 to 2026
 ## Community
 
 I have served as Co-Lead and Lead of **GDG on Campus EMSI Casablanca**, organizing technical workshops, developer events, and the OpportunAI hackathon. I have also supported career-oriented student programming as an **EMSI Career Center Ambassador**.
+
+## GitHub activity
+
+<p>
+  <img height="165" src="./profile/stats.svg" alt="Sara Ferraa's GitHub statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most used languages across Sara Ferraa's public repositories" />
+</p>
 
 ## Contact
 

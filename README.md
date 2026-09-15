@@ -1,147 +1,93 @@
-<div align="center">
+# Sara Ferraa
 
-# Hi, I'm Sara Ferraa
+**Software Engineer** based in Casablanca, Morocco.
 
-### Software Engineer | AI & Enterprise Automation | ServiceNow CSA
+I build dependable backend systems, mobile products, and applied AI tools. My work spans Java and Spring Boot applications, React and Next.js interfaces, Flutter and React Native products, and enterprise technology.
 
-Building reliable software across backend systems, applied AI, enterprise platforms, and mobile applications.
+I am currently a Software Engineering Intern at **Automai**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://saraferraa.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-sara0411-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sara0411)
+[Portfolio](https://ferraasara.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sara-ferraa-0aa73623a/) · [Email](mailto:ferraasara1@gmail.com)
 
-</div>
+## Selected work
 
-## About me
+### [AI Log Analyzer](https://github.com/sara0411/cybersec-log-analyzer)
 
-I'm a software engineer based in Morocco with hands-on experience gained through software-engineering and enterprise-technology internships, including **Automai** and the **Deloitte Morocco Cyber Center**.
+A security-focused log classification project built from Syslog data, NLP preprocessing, and LSTM and BiLSTM sequence models.
 
-My work spans Java/Spring applications, AI and NLP pipelines, enterprise automation, ServiceNow, and cross-platform mobile development. I enjoy turning complex operational problems into maintainable products with clear architecture and measurable results.
+**Evidence:** approximately 91.3% reported evaluation accuracy
 
-- Building **PageMate**, a social reading platform with Flutter and Supabase
-- Exploring applied AI, RAG systems, NLP, and workflow automation
-- Interested in software engineering, AI engineering/consulting, and enterprise solutions
-- Open to remote opportunities and international relocation
-- Arabic · French · English
+**Technology:** Python, NLP, LSTM, BiLSTM
 
-## Technology stack
+### [Recruitment CV Management Platform](https://github.com/sara0411/GestionCVForum)
 
-### Backend and enterprise
+A web application for managing candidate CVs and role-based recruitment workflows during recruitment forums.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Technology:** C#, ASP.NET Core MVC, SQL Server
 
-### AI and data
+### SAM and ITAM E-Learning Platform
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+An internal learning platform covering ITAM fundamentals, IBM licensing and contracts, and CVA and SLR processes. I designed and built authentication, role-based learning modules, quizzes, manager validation, progress tracking, analytics, resources, and email notifications.
 
-### Frontend and mobile
+**Technology:** Java, Spring Boot, Thymeleaf, Spring Security, JPA, Hibernate, H2
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-### Tools and delivery
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [AI Cybersecurity Log Analyzer](https://github.com/sara0411/cybersec-log-analyzer)
-
-Security-log analysis prototype combining NLP preprocessing with a stacked BiLSTM classifier and a Flask interface.
-
-**Python · TensorFlow · NLP · Flask**
-
-**Recorded test accuracy: 91.3%**
-
-</td>
-<td width="50%" valign="top">
-
-### [TrustExpense](https://github.com/sara0411/TrustExpense)
-
-Flutter expense tracker using receipt capture, on-device OCR, AI-assisted categorization, Supabase, and blockchain certification.
-
-**Flutter · ML Kit · TensorFlow Lite · Supabase**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [E-Commerce Microservices](https://github.com/sara0411/JEE)
-
-Multi-module Java platform with domain services, service discovery, an API gateway, and local persistence.
-
-**Java 17 · Spring Boot · Spring Cloud · Maven**
-
-</td>
-<td width="50%" valign="top">
+**Availability:** private internal work
 
 ### [Personal Portfolio](https://github.com/sara0411/Portfolio)
 
-Responsive portfolio for presenting engineering, AI, and product work through a modern component-based interface.
+My editorial portfolio, designed around a real portrait, factual project evidence, system-based light and dark themes, and scroll-linked motion.
 
-**Next.js · React · TypeScript · Tailwind CSS**
+**Technology:** Next.js, React, TypeScript
 
-[Live website](https://saraferraa.vercel.app)
+**Live:** [ferraasara.vercel.app](https://ferraasara.vercel.app)
 
-</td>
-</tr>
-</table>
+## Experience
 
-## Selected experience and milestones
+### Automai
 
-| Milestone | Outcome |
-|---|---|
-| **Software Engineering Internship — Automai** | Diagnosed and fixed C# WinForms workflow-generation, double-launch, and onboarding persistence defects |
-| **PFE Internship — Deloitte Morocco Cyber Center** | Built an enterprise SAM learning and automation platform for 60+ consultants with Java, Spring Boot, PostgreSQL, RBAC, document automation, and a local RAG assistant |
-| **ServiceNow** | Earned the CSA certification and worked with ITSM processes, Service Catalog configuration, and Flow Designer automation |
-| **AI Security Project** | Developed an NLP-to-BiLSTM log-classification pipeline with a recorded 91.3% test accuracy |
-| **Technical Leadership** | Led and co-led GDG on Campus EMSI Casablanca and organized a hackathon |
-| **Software Foundations** | Completed hands-on ALX/Holberton projects across C, Python, Linux, APIs, databases, and web infrastructure |
+**Software Engineering Intern · Current**
 
-## Certifications
+### Deloitte Extended Services Morocco
 
-- **ServiceNow Certified System Administrator (CSA)**
-- **HCL BigFix Foundation**
-- **Oracle Cloud Infrastructure DevOps**
-- **ALX/Holberton Software Engineering training**
+**IT and Software Asset Management Intern · Ended July 2026**
 
-## GitHub Statistics
+Worked with IBM software licensing environments, ILMT, BigFix, Passport Advantage concepts, ServiceNow SAM Pro, Flexera, USU, Active Directory, and enterprise reporting. I also built the internal SAM and ITAM learning platform described above.
 
-<div align="center">
+### SLTVerse
 
-<img height="165" src="./profile/stats.svg" alt="GitHub statistics" />
-<img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
+**Software Engineer**
 
-</div>
+Contributed to fintech mobile and web products using React Native, Expo, TypeScript, Node.js, Express, Next.js, Supabase, and PostgreSQL. The work included payment, identity, blockchain, and real-time integrations.
 
-<p align="center">
-<sub>Statistics are generated from public GitHub activity and repositories.</sub>
-</p>
+### Attijariwafa Bank
 
-<div align="center">
+**Software Developer**
 
-Explore my work here on GitHub or visit [my portfolio](https://saraferraa.vercel.app).
+Developed the recruitment CV management platform using ASP.NET Core MVC, C#, and SQL Server.
 
-</div>
+## Working set
+
+**Backend:** Java, Spring Boot, Node.js, Express, ASP.NET Core, REST APIs, Microservices, JPA, Hibernate
+
+**Frontend and mobile:** React, Next.js, TypeScript, Flutter, React Native, Expo, Thymeleaf
+
+**Data and AI:** PostgreSQL, Supabase, SQL Server, Python, RAG, NLP, LSTM, BiLSTM, Vector Search, OCR
+
+**Enterprise and delivery:** ServiceNow, BigFix, IBM ILMT, Active Directory, Oracle Cloud Infrastructure, Docker, Power BI, Git
+
+## Education and credentials
+
+**State Engineering Degree in Computer Science, Information Systems and Networks**
+
+EMSI Casablanca, 2021 to 2026
+
+- ServiceNow Certified System Administrator
+- HCL BigFix Foundation
+- Oracle Cloud Infrastructure DevOps
+
+## Community
+
+I have served as Co-Lead and Lead of **GDG on Campus EMSI Casablanca**, organizing technical workshops, developer events, and the OpportunAI hackathon. I have also supported career-oriented student programming as an **EMSI Career Center Ambassador**.
+
+## Contact
+
+For software engineering opportunities and project conversations, email [ferraasara1@gmail.com](mailto:ferraasara1@gmail.com).

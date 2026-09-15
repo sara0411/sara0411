@@ -1,14 +1,16 @@
-# Sara Ferraa
-
-**Software Engineer** based in Casablanca, Morocco.
+![Sara Ferraa, Software Engineer](./profile/header.svg)
 
 I build dependable backend systems, mobile products, and applied AI tools. My work spans Java and Spring Boot applications, React and Next.js interfaces, Flutter and React Native products, and enterprise technology.
 
-I am currently a Software Engineering Intern at **Automai**.
+**Current:** Software Engineering Intern at Automai &nbsp;&nbsp; **Based in:** Casablanca, Morocco
 
-[Portfolio](https://ferraasara.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sara-ferraa-0aa73623a/) · [Email](mailto:ferraasara1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-33413B?style=for-the-badge&logo=vercel&logoColor=white)](https://ferraasara.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-33413B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-ferraa-0aa73623a/)
+[![Email](https://img.shields.io/badge/EMAIL-33413B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferraasara1@gmail.com)
 
-## Selected work
+---
+
+## 01 / Selected work
 
 ### [AI Log Analyzer](https://github.com/sara0411/cybersec-log-analyzer)
 
@@ -40,7 +42,9 @@ My editorial portfolio, designed around a real portrait, factual project evidenc
 
 **Live:** [ferraasara.vercel.app](https://ferraasara.vercel.app)
 
-## Experience
+---
+
+## 02 / Experience
 
 ### Automai
 
@@ -64,7 +68,9 @@ Contributed to fintech mobile and web products using React Native, Expo, TypeScr
 
 Developed the recruitment CV management platform using ASP.NET Core MVC, C#, and SQL Server.
 
-## Working set
+---
+
+## 03 / Working set
 
 ### Backend and enterprise
 
@@ -90,7 +96,9 @@ Developed the recruitment CV management platform using ASP.NET Core MVC, C#, and
 ![Docker](https://img.shields.io/badge/Docker-33413B?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-33413B?style=flat-square&logo=git&logoColor=white)
 
-## Education and credentials
+---
+
+## 04 / Education and credentials
 
 **State Engineering Degree in Computer Science, Information Systems and Networks**
 
@@ -100,17 +108,23 @@ EMSI Casablanca, 2021 to 2026
 - HCL BigFix Foundation
 - Oracle Cloud Infrastructure DevOps
 
-## Community
+---
+
+## 05 / Community
 
 I have served as Co-Lead and Lead of **GDG on Campus EMSI Casablanca**, organizing technical workshops, developer events, and the OpportunAI hackathon. I have also supported career-oriented student programming as an **EMSI Career Center Ambassador**.
 
-## GitHub activity
+---
+
+## 06 / GitHub activity
 
 <p>
   <img height="165" src="./profile/stats.svg" alt="Sara Ferraa's GitHub statistics" />
   <img height="165" src="./profile/top-langs.svg" alt="Most used languages across Sara Ferraa's public repositories" />
 </p>
 
-## Contact
+---
+
+## 07 / Contact
 
 For software engineering opportunities and project conversations, email [ferraasara1@gmail.com](mailto:ferraasara1@gmail.com).

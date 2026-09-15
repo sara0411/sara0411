@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sara Ferraa, Software Engineer</title>
+  <desc id="desc">Editorial profile masthead with Sara Ferraa's name and areas of work.</desc>
+  <rect width="1200" height="320" fill="#1D211E"/>
+  <path d="M48 48H1152M48 272H1152" stroke="#596159" stroke-width="1"/>
+  <text x="48" y="82" fill="#AEB7A9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="4">SOFTWARE ENGINEER</text>
+  <text x="48" y="194" fill="#F0ECE4" font-family="Georgia, 'Times New Roman', serif" font-size="86" letter-spacing="-3">Sara Ferraa</text>
+  <text x="52" y="241" fill="#BEC3BA" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1">Backend systems  /  Mobile products  /  Applied AI</text>
+  <g fill="none" stroke="#8F9B83" stroke-width="2">
+    <path d="M934 80H1138V240H934Z"/>
+    <path d="M910 104H1114V264"/>
+    <path d="M958 56V216H1162"/>
+  </g>
+  <text x="967" y="211" fill="#F0ECE4" font-family="Georgia, 'Times New Roman', serif" font-size="120" letter-spacing="-8">SF</text>
+</svg>
